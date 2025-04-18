@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "Projects",
+			"path": "."
+		},
+		{
+			"name": "PyMatching",
+			"path": "../Packages/PyMatching"
+		},
+		{
+			"name": "fusion-blossom",
+			"path": "../Packages/fusion-blossom"
+		},
+		{
+			"name": "Stim",
+			"path": "../Packages/Stim"
+		}
+	],
+	"settings": {}
+}
